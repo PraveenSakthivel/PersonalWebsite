@@ -1,0 +1,23 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: Rutgers Day
+  i18n: jalpc
+  gh_user: PraveenSakthivel
+  repo: RutgersDay
+  img: /static/assets/img/landing/ruday.png
+  desc: This is an app I developed for the event Rutgers Day. The app contains live information timings and an interactive map
+
+- name: Chrome App Conversion
+  i18n: cpython
+  gh_user: PraveenSakthivel
+  repo: ChromiumConversionServer
+  img: /static/assets/img/landing/google.png
+  desc: This is a server application that automatically converts Chrome Apps into individual Windows and Mac Apps
+
+- name: BRGO
+  i18n: google
+  gh_user: PraveenSakthivel
+  repo: BRGO-IOS
+  img: /static/assets/img/landing/brgo.png
+  desc: This is an app I designed for my school district to provide a mobile portal for OnCourse System's teacher websites and other essential school information

@@ -1,0 +1,43 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: iconectiv
+    i18n: company_a
+  desc:
+    detail: I designed and implemented a GitOps system to automatically manage user accounts across all developer server machines. I also designed and implemented various Test Automation tools in Python to provide instant feedback for developers and integrated testing tools in Kubernetes and Docker cloud environments, allowing for seamless use in development pipeline. 
+    i18n: company_a_desc
+  date:
+    detail: May 2018
+    i18n: company_a_date
+  job:
+    detail: DevOps Intern
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Rutgers University
+    i18n: company_a
+  desc:
+    detail: I was commissioned by Rutgers University to create the official app for the statewide event "Rutgers Day". App features include special event information, timings, guided maps and other essential information.
+    i18n: company_a_desc
+  date:
+    detail: January 2018
+    i18n: company_a_date
+  job:
+    detail: iOS Developer
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Pearson
+    i18n: Pearson
+  desc:
+    detail: I was tasked with producing a Proof of Concept for a method to convert chrome apps to standalone Windows and Mac Apps. I finished the POC and went on to a develop an automatic conversion process in Java and implement it in a cloud server on Microsoft Azure. The server worked in conjunction with Jenkins and deployed converted build whenever a build finished on Jenkins.
+    i18n: Pearson_desc
+  date:
+    detail: June 2017
+    i18n: Pearson_date
+  job:
+    detail: Software Development Intern
+    i18n: company_b_job
+  icon: fa-plus-square
